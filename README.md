@@ -1,9 +1,14 @@
-- 👋 Hi, I’m @nishika2712 and i'm currently pursuing B.Tech(CS) from Banasthali Vidyapith,Tonk, Rajasthan
-- My technical skills include HTML, CSS, JavaScript, Bootstrap, C++, C, Java, Python. Currently an Intern at Centre for Development of Advanced Computing (C-DAC).
-- 📫 How to reach me ...
--  LinkedIn: https://www.linkedin.com/in/nishika-jain-82a2b120b
+Hi, I'm Nishika Jain 👋
+I am a highly motivated and results-driven Senior Salesforce Developer with 2.5+ years of experience specializing in custom application development and system integration.
 
-<!---
-nishika2712/nishika2712 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Role: Senior Salesforce Developer at Bajaj Finserv.
+
+Core Expertise: Building scalable solutions using the full Salesforce development stack, emphasizing performance and operational efficiency.
+
+Key Skills:
+- Salesforce: Apex, Lightning Web Components (LWC) , Triggers, Flows, Process Automation, and CRM Administration.
+- Programming: Strong proficiency in JavaScript (crucial for LWC) , Java, and Python.
+- Integration: Experienced in consuming REST APIs for seamless third-party system integration.
+- Methodologies: Proficient in Agile, SDLC, Deployment Strategies, and source code management using Git.
+
+Education & Certification: B.Tech in Computer Science and Engineering and Salesforce Certified Platform Developer.
